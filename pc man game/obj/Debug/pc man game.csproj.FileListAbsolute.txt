@@ -1,0 +1,10 @@
+C:\Users\new\source\repos\pc man game\pc man game\bin\Debug\pc man game.exe.config
+C:\Users\new\source\repos\pc man game\pc man game\bin\Debug\pc man game.exe
+C:\Users\new\source\repos\pc man game\pc man game\bin\Debug\pc man game.pdb
+C:\Users\new\source\repos\pc man game\pc man game\obj\Debug\pc man game.csproj.AssemblyReference.cache
+C:\Users\new\source\repos\pc man game\pc man game\obj\Debug\pc_man_game.Form1.resources
+C:\Users\new\source\repos\pc man game\pc man game\obj\Debug\pc_man_game.Properties.Resources.resources
+C:\Users\new\source\repos\pc man game\pc man game\obj\Debug\pc man game.csproj.GenerateResource.cache
+C:\Users\new\source\repos\pc man game\pc man game\obj\Debug\pc man game.csproj.CoreCompileInputs.cache
+C:\Users\new\source\repos\pc man game\pc man game\obj\Debug\pc man game.exe
+C:\Users\new\source\repos\pc man game\pc man game\obj\Debug\pc man game.pdb
